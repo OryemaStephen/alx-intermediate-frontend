@@ -1,0 +1,10 @@
+1. Navigated into the repository: alx-intermediate-frontend
+2. Created directory: 0x03-sass_scss
+3. Installed NVM using:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+4. Restarted the terminal and installed Node.js version 20.16 using:
+   nvm install 20.16
+5. Set the node version using:
+   nvm use 20.16
+6. Installed the latest stable version of SASS using:
+   npm install sass
